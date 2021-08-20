@@ -1,0 +1,15 @@
+{
+	"_QPVersion": "0.1.1",
+	"name": "Combo Splitter",
+	"id": "ComboSplitter",
+	"author": "FutureMapper, originally by Exomanz",
+	"version": "0.1.2",
+	"packageId": "com.beatgames.beatsaber",
+	"packageVersion": "1.16.4",
+	"type": "Gameplay",
+	"modFiles": [
+		"libComboSplitter.so"
+	],
+	"libraryFiles": [
+	]
+}
